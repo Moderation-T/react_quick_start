@@ -2,6 +2,10 @@
 
 自用 react 项目快速启动工具
 
+## 技术栈
+
+react + antd(UI 框架) + rematch(状态管理) + react-router(路由)
+
 ## Installation
 
 ```
