@@ -10,7 +10,7 @@ const logoNames = {
 
 export default {
   // 后端 API 设置
-  API_BASE_URL: 'http://39.97.229.21/api',
+  API_BASE_URL: '',
   // 是否有启用登录
   isLogin: false,
   // 是否启用重定向
